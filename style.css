@@ -1,0 +1,9 @@
+body
+{
+    background-color:plum;
+}
+#person, #accuracy, #person_name, #person_accuracy, b
+{
+    font-size:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
